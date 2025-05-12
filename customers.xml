@@ -1,0 +1,8 @@
+<Customers>
+  <Customer>
+    <Document>000003</Document>
+    <Name>Jane Smith</Name>
+    <Address>New York, NY 10001</Address>
+    <Profession>Engineer</Profession>
+  </Customer>
+</Customers>
